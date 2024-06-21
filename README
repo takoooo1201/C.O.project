@@ -4,4 +4,4 @@ code檔案有點大，沒有上傳，此hackmd有Q3到Q5的:
 - 結果說明
 - 程式碼修改處(有附上註解)
 
-Q3,Q4和Q5資料夾裡有project繳交要求的log檔和stats.txt，new代表修改後的執行結果，沒有new代表原本的執行結果
+Q3,Q4和Q5資料夾裡有project繳交要求的log檔和stats.txt，new代表修改後的執行結果(Q4的new代表更改後的frequency based replacement policy/Q5的new代表Write through)，沒有new代表原本的執行結果
