@@ -1,0 +1,5 @@
+gem5/configs/common/Caches.py
+gem5/configs/common/CacheConfig.py
+gem5/configs/common/Options.py
+gem5/src/cpu/BaseCPU.py
+project/gem5/src/mem/XBar.py
